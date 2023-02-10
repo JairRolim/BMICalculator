@@ -4,7 +4,7 @@ My goal with this app was to learn and develop my skills in Android, while also 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/JairRolim/BMICalculator/blob/master/Tela%201%20.png" width="220">&emsp;"<img src="https://github.com/JairRolim/BMICalculator/blob/master/Tela%202.png" width="220">&emsp;"<img src="https://github.com/JairRolim/BMICalculator/blob/master/Tela%203%20.png" width="220">&emsp;"<img src="https://github.com/JairRolim/BMICalculator/blob/master/Tela%204.png" width="220"/>
+<img src="https://github.com/JairRolim/BMICalculator/blob/master/Tela%201%20.png" width="200">&emsp;"<img src="https://github.com/JairRolim/BMICalculator/blob/master/Tela%202.png" width="200">&emsp;"<img src="https://github.com/JairRolim/BMICalculator/blob/master/Tela%203%20.png" width="200">&emsp;"<img src="https://github.com/JairRolim/BMICalculator/blob/master/Tela%204.png" width="200"/>
 
 ##Technologies
 
